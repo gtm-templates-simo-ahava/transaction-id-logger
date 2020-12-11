@@ -191,10 +191,6 @@ ___WEB_PERMISSIONS___
               {
                 "type": 1,
                 "string": "__tid_gtm"
-              },
-              {
-                "type": 1,
-                "string": "_sp_id.76f0"
               }
             ]
           }
